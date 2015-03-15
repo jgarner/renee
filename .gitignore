@@ -1,0 +1,10 @@
+.tmp
+.sass-cache
+
+# idea files #
+.idea
+*.iml
+
+# mac files #
+.DS_Store
+
